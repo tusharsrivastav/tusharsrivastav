@@ -30,3 +30,5 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ---
 ⭐️ From [tusharsrivastav](https://github.com/tusharsrivastav)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tusharsrivastav)
