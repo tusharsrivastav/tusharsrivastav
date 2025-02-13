@@ -1,20 +1,16 @@
 # 👋 Hi, I'm Tushar Srivastava!
 
 ## 🧑‍💻 About Me
-I'm a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving complex problems and building innovative solutions.
+I'm a passionate software developer with a keen interest in open-source projects and a love for learning new technologies.
 
-- 🔭 I’m currently working on various exciting projects.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web Development, Database Management, API Design and DevOps.
-- 📫 How to reach me: [Email](mailto:tusharsrivastava2003@gmail.com)
+- 📫 Know all about me here: [tushardevelops.com](https://tushardevelops.com/)
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** JavaScript, Typescript, Python, C++
+- **Programming Languages:** JavaScript, Typescript, Python, C/C++
 - **Frameworks & Libraries:** React, Node.js, Express, Django
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **DevOps Tools:** Docker, GitLab CI/CD
-- **Other Tools:** Git, GitHub, VS Code, Postman
+- **Other Tools:** Git, Vim, VS Code, Postman
 
 ## 📈 GitHub Stats
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastav&hide=contribs&show_icons=true&theme=radical#gh-dark-mode-only)
