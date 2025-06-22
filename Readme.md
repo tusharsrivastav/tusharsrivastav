@@ -6,11 +6,10 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 📫 Know all about me here: [tushardevelops.com](https://tushardevelops.com/)
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** JavaScript, Typescript, Python, C/C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django
+- **Programming Languages:** JavaScript, Python, C/C++
+- **Frameworks & Libraries:** React.js, Node.js, Express, Django
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **DevOps Tools:** Docker, GitLab CI/CD
-- **Other Tools:** Git, Vim, VS Code, Postman
+- **Other Tools:** Git, Github, VS Code, Postman
 
 ## 📈 GitHub Stats
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastav&hide=contribs&show_icons=true&theme=radical#gh-dark-mode-only)
